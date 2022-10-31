@@ -2,7 +2,7 @@
 
 ## Additional Info
 
-- link to book <https://www.packtpub.com/product/mastering-go-second-edition/9781838559335>
+- link to book <https://www.packtpub.com/product/mastering-go-third-edition/9781801079310>
 - link to Go code 2nd - <https://github.com/PacktPublishing/Mastering-Go-Second-Edition>
 - link to Go code, 3rd - <https://github.com/mactsouk/mastering-Go-3rd>
 - Mihalis Tsoukalos blog - <https://www.mtsoukalos.eu/post/>
